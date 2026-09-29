@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
+    <!-- 1. ควบคุมเวอร์ชัน (อัปเดต / ย้อนเวอร์ชัน) -->
     <version>5.6</version>
     <url>https://github.com</url>
     <changelog>https://github.com</changelog>
+    
+    <!-- 2. ควบคุมการปิดโปรแกรมชั่วคราว (ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว) -->
+    <status>active</status>
 </item>

@@ -6,5 +6,5 @@
     <changelog>https://github.com</changelog>
     
     <!-- 2. ควบคุมการปิดโปรแกรมชั่วคราว (ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว) -->
-    <status>active</status>
+    <status>maintenance</status>
 </item>

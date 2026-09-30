@@ -5,5 +5,5 @@
     <url>https://github.com/TrsiL12241/Rufus/releases/download/v5.6/Rufus.zip</url>
     <changelog>https://github.com/TrsiL12241/Rufus/releases/tag/v5.6</changelog>
         <!--(ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว)-->
-    <status>maintenance</status>
+    <status>active</status>
 </item>

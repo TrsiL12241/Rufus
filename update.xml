@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
         <!--(อัปเดต / ย้อนเวอร์ชัน)-->
-    <version>6.3</version>
-    <url>https://github.com/TrsiL12241/Rufus/releases/download/v6.3/Rufus.zip</url>
-    <changelog>https://github.com/TrsiL12241/Rufus/releases/tag/v6.3</changelog>
+    <version>6.4</version>
+    <url>https://github.com/TrsiL12241/Rufus/releases/download/v6.4/Rufus.zip</url>
+    <changelog>https://github.com/TrsiL12241/Rufus/releases/tag/v6.4</changelog>
         <!--(ใส่ "active" เพื่อเปิดปกติ / ใส่ "maintenance" เพื่อสั่งปิดชั่วคราว)-->
     <status>active</status>
 </item>
